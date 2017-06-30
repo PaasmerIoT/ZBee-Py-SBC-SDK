@@ -1,0 +1,9 @@
+UserName = "XXXXXX" #your user name used in developer.paasmer.co for registration
+DeviceName = "YYYYY" #your device name
+feedname1 = "Temp" #feed name used for displaying in the developer.paasmer.co This feed is restricted to temprature sensor
+feedname2 = "moisture" #feed name used for display in the developer.paasmer.co this feed is restricted to digital sensor
+feedname3 = "Prox" #feed name used for display in the developer.paasmer.co this feed is restricted to digital sensor
+feedname4 = "Watersensor" #feed name used for displaying in the developer.paasmer.co, This Feed is restricted to Distance sensor(Ultrasonic)
+controlfeedname1 = "sprink" #feed name used for display in the developer.paasmer.co
+controlfeedname2 = "motor" #feed name used for display in the developer.paasmer.co
+timePeriod = 5 #change the time delay(in seconds) as you required for sending sensor values to paasmer cloud

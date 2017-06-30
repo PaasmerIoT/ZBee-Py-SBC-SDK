@@ -1,0 +1,224 @@
+running install
+running bdist_egg
+running egg_info
+creating Python_EEML.egg-info
+writing Python_EEML.egg-info/PKG-INFO
+writing top-level names to Python_EEML.egg-info/top_level.txt
+writing dependency_links to Python_EEML.egg-info/dependency_links.txt
+writing manifest file 'Python_EEML.egg-info/SOURCES.txt'
+reading manifest file 'Python_EEML.egg-info/SOURCES.txt'
+writing manifest file 'Python_EEML.egg-info/SOURCES.txt'
+installing library code to build/bdist.linux-armv7l/egg
+running install_lib
+running build_py
+creating build
+creating build/lib.linux-armv7l-2.7
+creating build/lib.linux-armv7l-2.7/eeml
+copying eeml/datastream.py -> build/lib.linux-armv7l-2.7/eeml
+copying eeml/__init__.py -> build/lib.linux-armv7l-2.7/eeml
+creating build/bdist.linux-armv7l
+creating build/bdist.linux-armv7l/egg
+creating build/bdist.linux-armv7l/egg/eeml
+copying build/lib.linux-armv7l-2.7/eeml/datastream.py -> build/bdist.linux-armv7l/egg/eeml
+copying build/lib.linux-armv7l-2.7/eeml/__init__.py -> build/bdist.linux-armv7l/egg/eeml
+byte-compiling build/bdist.linux-armv7l/egg/eeml/datastream.py to datastream.pyc
+byte-compiling build/bdist.linux-armv7l/egg/eeml/__init__.py to __init__.pyc
+creating build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/PKG-INFO -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/SOURCES.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/dependency_links.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/top_level.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+creating dist
+creating 'dist/Python_EEML-0.1-py2.7.egg' and adding 'build/bdist.linux-armv7l/egg' to it
+removing 'build/bdist.linux-armv7l/egg' (and everything under it)
+Processing Python_EEML-0.1-py2.7.egg
+Copying Python_EEML-0.1-py2.7.egg to /usr/local/lib/python2.7/dist-packages
+Adding Python-EEML 0.1 to easy-install.pth file
+
+Installed /usr/local/lib/python2.7/dist-packages/Python_EEML-0.1-py2.7.egg
+Processing dependencies for Python-EEML==0.1
+Finished processing dependencies for Python-EEML==0.1
+
+Added to alias...\n
+running install
+running bdist_egg
+running egg_info
+writing Python_EEML.egg-info/PKG-INFO
+writing top-level names to Python_EEML.egg-info/top_level.txt
+writing dependency_links to Python_EEML.egg-info/dependency_links.txt
+reading manifest file 'Python_EEML.egg-info/SOURCES.txt'
+writing manifest file 'Python_EEML.egg-info/SOURCES.txt'
+installing library code to build/bdist.linux-armv7l/egg
+running install_lib
+running build_py
+creating build/bdist.linux-armv7l/egg
+creating build/bdist.linux-armv7l/egg/eeml
+copying build/lib.linux-armv7l-2.7/eeml/datastream.py -> build/bdist.linux-armv7l/egg/eeml
+copying build/lib.linux-armv7l-2.7/eeml/__init__.py -> build/bdist.linux-armv7l/egg/eeml
+byte-compiling build/bdist.linux-armv7l/egg/eeml/datastream.py to datastream.pyc
+byte-compiling build/bdist.linux-armv7l/egg/eeml/__init__.py to __init__.pyc
+creating build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/PKG-INFO -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/SOURCES.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/dependency_links.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/top_level.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+creating 'dist/Python_EEML-0.1-py2.7.egg' and adding 'build/bdist.linux-armv7l/egg' to it
+removing 'build/bdist.linux-armv7l/egg' (and everything under it)
+Processing Python_EEML-0.1-py2.7.egg
+Removing /usr/local/lib/python2.7/dist-packages/Python_EEML-0.1-py2.7.egg
+Copying Python_EEML-0.1-py2.7.egg to /usr/local/lib/python2.7/dist-packages
+Python-EEML 0.1 is already the active version in easy-install.pth
+
+Installed /usr/local/lib/python2.7/dist-packages/Python_EEML-0.1-py2.7.egg
+Processing dependencies for Python-EEML==0.1
+Finished processing dependencies for Python-EEML==0.1
+{
+    "certificateArn": "arn:aws:iot:us-west-2:039065299133:cert/3fc44d5b4430c2ce588fcb4e9a03d1408751b8bcc055729901c4f47e9e4ff1cf", 
+    "certificatePem": "-----BEGIN CERTIFICATE-----\nMIIDWjCCAkKgAwIBAgIVAJOS6FRduK7uSN17wHj1tImGHJlEMA0GCSqGSIb3DQEB\nCwUAME0xSzBJBgNVBAsMQkFtYXpvbiBXZWIgU2VydmljZXMgTz1BbWF6b24uY29t\nIEluYy4gTD1TZWF0dGxlIFNUPVdhc2hpbmd0b24gQz1VUzAeFw0xNzA2MjYwOTUx\nMzJaFw00OTEyMzEyMzU5NTlaMB4xHDAaBgNVBAMME0FXUyBJb1QgQ2VydGlmaWNh\ndGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCeT4+JJ6a0EEy4RZxd\nI3AmIHcyoZHLFCZm5mvb4bb5Y3YJ7P6vNyBacsDvVNNExCcZB4eG+fCaKWi6gJV2\nE45M60z+fFEek/Ngvd2Nn7Ub6rAhy/2oJrlscmm4CF7dxfo+wrDtyzENE4mOFkAe\n4F0UFh6EG/q8Idc2o3m1P7vDOoY5AYDI79NOz1YZSaW6EFs5NmuNI39g0lROkLrd\nEJm+aJ4HM7DnBWTCSFgXdfq6n7pPzpsV8CN7ieyWz1RXBuQOLFc35kEPU3/s16L+\nV65h1xonqTf+/pLLSdQ+XkihtrWf+eKotCqguwZh8b2c1I/UtSonBIgtkA1jtd8O\nld7XAgMBAAGjYDBeMB8GA1UdIwQYMBaAFNm1Qfkq+CluRLkccMef3UHlEAs3MB0G\nA1UdDgQWBBQotEs8rx4WgOJCmAdH32M80Ix7GzAMBgNVHRMBAf8EAjAAMA4GA1Ud\nDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEAF0EFuQybHrQWVSo31ZqzhWLN\n/uI9TySpM75//nFEEbg7l11Rfnu6UhtDN+rklHUTnFVIOmwVi5YjNIok9SA163Os\noC4sTY9F8Tp6ja7zE9nW/FULSyFH15jvAX5pBrDkfm4lGSibujuVFqb4FuhGZ1Be\nqFdE1ElsA7/ZWnQ5BGCVbQ7Wl4yqPKmcJAzO6mvkBmzmc1pBze+xYYNIanip0P6m\nzImWeGC19TQi+r7HoboKYmo31eIzgnqZyI0TMvXoq0ORpUXpUKVbCjc5w77CnO/e\n4Jl0QYOA73vUfYtYqPbGnFS7mC2Ar9lDl/mGCjkJ9vQ6g9quegBXE18c8HiL2g==\n-----END CERTIFICATE-----\n", 
+    "keyPair": {
+        "PublicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnk+PiSemtBBMuEWcXSNw\nJiB3MqGRyxQmZuZr2+G2+WN2Cez+rzcgWnLA71TTRMQnGQeHhvnwmilouoCVdhOO\nTOtM/nxRHpPzYL3djZ+1G+qwIcv9qCa5bHJpuAhe3cX6PsKw7csxDROJjhZAHuBd\nFBYehBv6vCHXNqN5tT+7wzqGOQGAyO/TTs9WGUmluhBbOTZrjSN/YNJUTpC63RCZ\nvmieBzOw5wVkwkhYF3X6up+6T86bFfAje4nsls9UVwbkDixXN+ZBD1N/7Nei/leu\nYdcaJ6k3/v6Sy0nUPl5Ioba1n/niqLQqoLsGYfG9nNSP1LUqJwSILZANY7XfDpXe\n1wIDAQAB\n-----END PUBLIC KEY-----\n", 
+        "PrivateKey": "-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAnk+PiSemtBBMuEWcXSNwJiB3MqGRyxQmZuZr2+G2+WN2Cez+\nrzcgWnLA71TTRMQnGQeHhvnwmilouoCVdhOOTOtM/nxRHpPzYL3djZ+1G+qwIcv9\nqCa5bHJpuAhe3cX6PsKw7csxDROJjhZAHuBdFBYehBv6vCHXNqN5tT+7wzqGOQGA\nyO/TTs9WGUmluhBbOTZrjSN/YNJUTpC63RCZvmieBzOw5wVkwkhYF3X6up+6T86b\nFfAje4nsls9UVwbkDixXN+ZBD1N/7Nei/leuYdcaJ6k3/v6Sy0nUPl5Ioba1n/ni\nqLQqoLsGYfG9nNSP1LUqJwSILZANY7XfDpXe1wIDAQABAoIBABu3bjfjG0qXN/dj\nKJcd5zqloHja1L2rT3Xgja23fON4yGfAeG6QxjdPs/uy7DIz7WxyZwX4qGk1KsLM\nVF6R2e4ZnCdJ+KHT4V5kn292MK0sj527KzPPY9NazKuNu540VTW7vGJFmtbhPsoD\nl0JQobssjDcw9tsNSbKlOF/FQshRJXekMZv4w9cnS+MKNSuL9wDZyGW+IEAD3zfR\nsqevj81ZScIuyE09G0Zaf979yV1rZbmvVQFeOaqOJUZtUjJbb0WpO5UPN3yjs4cR\n9KV6AWpY5ZQZKTQl+fNjnNKF9HsjqrHqH4HU1iSwrZ9q4L3+QTUwO9aFJ+5cy5aD\nDPGbpdECgYEA6gtxDGti+DAOrNmZiEUWPEFS2Eg4ke6I1Ce7oRtANTbo3sQR/bNH\nXDa8hlpKAH8S/kkuaskYLKXHbHpcSnNI6Shx35S2JbqOZiPLl84I3bxKWH3PhbDF\nZwZBlqEJMM0TDSf1UOXqNhZVHEuHo8h9iPLmW2u4Qq4ozfnKuxVCgysCgYEArSlg\nl1iLTF/JeSNZuJIXHQgGWmLNnFHBJqVFwx0bai0Ruka7562H2Z04xYYSCzT5JFRV\nsrdrazzudR8GMKyB7SEQsfPkdY+wnX5+gc7tQARSQgVEAM/qOzkmZp6nWtRS2ab8\nuowHfYrqTYEvayg1T1yTv7i7dgNhfhRRbX9QbQUCgYEAoSvN5tqQpg8aHAghRYkl\n/cqSTWS2qDAWw9q0yAYnGj488SMerJHoA2WiP/cvXNYlcz1cHKds4VosUdSVd6Oa\nQw3aFTiokqS86TOfQWPeESxYGkZRQWRxHDhftGYjGRswEnBA7DvYJPUOGVUeDDjF\n0ihLYAt3MVwTt3xcEqdaTU8CgYBQkNvcDtpg4oA+2G+6LF6Mp1stWqMHhBI2BNd8\nfGJw+B8zaA2tMVPvr/LmFAb5J+BzQrnMuQJFlsfrvk+G/fxFdAjsgulcuUoXPO9n\nPfusuVX8Wa7WIeZ9P43aWR7MZ9VUZxlXQieKBcQV43FIjiCfmBc2MKEnu1L08kcg\nhwfIcQKBgCmJTSX1/hy+9AOXfgm6zxqQHQlQlgUTAZjBCOt97GicBsNdRDE26iyY\nC5hvgroEe45ZPZ+axfSbgql9typnKsLeFXs8973vJg+0mSUIaYh6GvBfr7y/5Fde\nPQVWxfr2RkepUt9J5fyAW1gbeo1PgHDRg8+nDMGNAtEky4QL/hQN\n-----END RSA PRIVATE KEY-----\n"
+    }, 
+    "certificateId": "3fc44d5b4430c2ce588fcb4e9a03d1408751b8bcc055729901c4f47e9e4ff1cf"
+}
+"arn:aws:iot:us-west-2:039065299133:cert/3fc44d5b4430c2ce588fcb4e9a03d1408751b8bcc055729901c4f47e9e4ff1cf"
+{
+    "policyName": "Paasmer-thing-policy-5942", 
+    "policyArn": "arn:aws:iot:us-west-2:039065299133:policy/Paasmer-thing-policy-5942", 
+    "policyDocument": "{ \"Version\": \"2012-10-17\", \"Statement\": [{\"Action\": [\"iot:*\"], \"Resource\": [\"*\"], \"Effect\": \"Allow\" }] }", 
+    "policyVersionId": "1"
+}
+Added to alias...\n
+running install
+running bdist_egg
+running egg_info
+writing Python_EEML.egg-info/PKG-INFO
+writing top-level names to Python_EEML.egg-info/top_level.txt
+writing dependency_links to Python_EEML.egg-info/dependency_links.txt
+reading manifest file 'Python_EEML.egg-info/SOURCES.txt'
+writing manifest file 'Python_EEML.egg-info/SOURCES.txt'
+installing library code to build/bdist.linux-armv7l/egg
+running install_lib
+running build_py
+creating build/bdist.linux-armv7l/egg
+creating build/bdist.linux-armv7l/egg/eeml
+copying build/lib.linux-armv7l-2.7/eeml/datastream.py -> build/bdist.linux-armv7l/egg/eeml
+copying build/lib.linux-armv7l-2.7/eeml/__init__.py -> build/bdist.linux-armv7l/egg/eeml
+byte-compiling build/bdist.linux-armv7l/egg/eeml/datastream.py to datastream.pyc
+byte-compiling build/bdist.linux-armv7l/egg/eeml/__init__.py to __init__.pyc
+creating build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/PKG-INFO -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/SOURCES.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/dependency_links.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/top_level.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+creating 'dist/Python_EEML-0.1-py2.7.egg' and adding 'build/bdist.linux-armv7l/egg' to it
+removing 'build/bdist.linux-armv7l/egg' (and everything under it)
+Processing Python_EEML-0.1-py2.7.egg
+Removing /usr/local/lib/python2.7/dist-packages/Python_EEML-0.1-py2.7.egg
+Copying Python_EEML-0.1-py2.7.egg to /usr/local/lib/python2.7/dist-packages
+Python-EEML 0.1 is already the active version in easy-install.pth
+
+Installed /usr/local/lib/python2.7/dist-packages/Python_EEML-0.1-py2.7.egg
+Processing dependencies for Python-EEML==0.1
+Finished processing dependencies for Python-EEML==0.1
+
+
+Added to alias...\n
+running install
+running bdist_egg
+running egg_info
+writing Python_EEML.egg-info/PKG-INFO
+writing top-level names to Python_EEML.egg-info/top_level.txt
+writing dependency_links to Python_EEML.egg-info/dependency_links.txt
+reading manifest file 'Python_EEML.egg-info/SOURCES.txt'
+writing manifest file 'Python_EEML.egg-info/SOURCES.txt'
+installing library code to build/bdist.linux-armv7l/egg
+running install_lib
+running build_py
+creating build/bdist.linux-armv7l/egg
+creating build/bdist.linux-armv7l/egg/eeml
+copying build/lib.linux-armv7l-2.7/eeml/datastream.py -> build/bdist.linux-armv7l/egg/eeml
+copying build/lib.linux-armv7l-2.7/eeml/__init__.py -> build/bdist.linux-armv7l/egg/eeml
+byte-compiling build/bdist.linux-armv7l/egg/eeml/datastream.py to datastream.pyc
+byte-compiling build/bdist.linux-armv7l/egg/eeml/__init__.py to __init__.pyc
+creating build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/PKG-INFO -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/SOURCES.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/dependency_links.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/top_level.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+creating 'dist/Python_EEML-0.1-py2.7.egg' and adding 'build/bdist.linux-armv7l/egg' to it
+removing 'build/bdist.linux-armv7l/egg' (and everything under it)
+Processing Python_EEML-0.1-py2.7.egg
+Removing /usr/local/lib/python2.7/dist-packages/Python_EEML-0.1-py2.7.egg
+Copying Python_EEML-0.1-py2.7.egg to /usr/local/lib/python2.7/dist-packages
+Python-EEML 0.1 is already the active version in easy-install.pth
+
+Installed /usr/local/lib/python2.7/dist-packages/Python_EEML-0.1-py2.7.egg
+Processing dependencies for Python-EEML==0.1
+Finished processing dependencies for Python-EEML==0.1
+{
+    "certificateArn": "arn:aws:iot:us-west-2:039065299133:cert/6eb0d62b18926a329552fc318cdb1feb3d4d6c125b032a363881ed17db18116e", 
+    "certificatePem": "-----BEGIN CERTIFICATE-----\nMIIDWTCCAkGgAwIBAgIUV2l+G5E6GhJNdyyBe+Pe8p96q4wwDQYJKoZIhvcNAQEL\nBQAwTTFLMEkGA1UECwxCQW1hem9uIFdlYiBTZXJ2aWNlcyBPPUFtYXpvbi5jb20g\nSW5jLiBMPVNlYXR0bGUgU1Q9V2FzaGluZ3RvbiBDPVVTMB4XDTE3MDYyNzA5MzEw\nMloXDTQ5MTIzMTIzNTk1OVowHjEcMBoGA1UEAwwTQVdTIElvVCBDZXJ0aWZpY2F0\nZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKDS+u+74sxHtx1wlkJ4\npCvdo+zewAccccNDEAi+1NiGZZCAl72Dc9sI2f3EV1ze10T/y/zlSj8ZnZAe9Efm\nsKWGOT7zXVQnq1gVQ0ZWlko/6FloVZc9T+yvGkiKxuYoCLmo+e84frtBVj2ZaXMC\nisW8Kx7xofCUl0roKcNxo5cdxGs67MlLnEqUqHds1rWEfdhnfyEpfE5qpOk0mRWb\nBy6lbtdcEh21MU9TgImTOCPorvZnNY56iIyrk6xFOBBCGLjBDD3/vIzlcW7sCWwq\nf6PC8fRgc7rOikbnj+pBJwih04k/MtUl9uF9RMZm6oTXj97Ar8w63gVfzQ+sDlDJ\n1SMCAwEAAaNgMF4wHwYDVR0jBBgwFoAU2bVB+Sr4KW5EuRxwx5/dQeUQCzcwHQYD\nVR0OBBYEFP9OXuxc6WR5bqH9MUTfyTmFcSZmMAwGA1UdEwEB/wQCMAAwDgYDVR0P\nAQH/BAQDAgeAMA0GCSqGSIb3DQEBCwUAA4IBAQAEC+HeQBrIEXaVWDhSd6y5Ao9+\nA7tLrLRTAjsuPtL9XjOP/FKMV/a9uuEzhtUQMGAasIALgI84uqqVPkii626QhPTH\nYDLjjmCUo2MrP5q+xUEXkhrIzJHBg/PzFgNHfJsRS64pwQahMGox9cknosY+aDla\nFJ+aKn8UHa07RFHxeveFxsWEzZZQ9M0/6Zp/6v2N2nQM36rksHqj0WgyuaCuLLSJ\nIoXVMLsRBHBWX+d3drHOcDj5rvAO/qXXm2iMrcmSNgC3OLm7R8OG09FCMv/hML0a\n9SaJ5EaK15exJrrcCqGZin5WXmAxEVeiip77cuHhiZQQmwaAGB+jUUM+1ocR\n-----END CERTIFICATE-----\n", 
+    "keyPair": {
+        "PublicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoNL677vizEe3HXCWQnik\nK92j7N7ABxxxw0MQCL7U2IZlkICXvYNz2wjZ/cRXXN7XRP/L/OVKPxmdkB70R+aw\npYY5PvNdVCerWBVDRlaWSj/oWWhVlz1P7K8aSIrG5igIuaj57zh+u0FWPZlpcwKK\nxbwrHvGh8JSXSugpw3Gjlx3EazrsyUucSpSod2zWtYR92Gd/ISl8Tmqk6TSZFZsH\nLqVu11wSHbUxT1OAiZM4I+iu9mc1jnqIjKuTrEU4EEIYuMEMPf+8jOVxbuwJbCp/\no8Lx9GBzus6KRueP6kEnCKHTiT8y1SX24X1ExmbqhNeP3sCvzDreBV/ND6wOUMnV\nIwIDAQAB\n-----END PUBLIC KEY-----\n", 
+        "PrivateKey": "-----BEGIN RSA PRIVATE KEY-----\nMIIEpAIBAAKCAQEAoNL677vizEe3HXCWQnikK92j7N7ABxxxw0MQCL7U2IZlkICX\nvYNz2wjZ/cRXXN7XRP/L/OVKPxmdkB70R+awpYY5PvNdVCerWBVDRlaWSj/oWWhV\nlz1P7K8aSIrG5igIuaj57zh+u0FWPZlpcwKKxbwrHvGh8JSXSugpw3Gjlx3Eazrs\nyUucSpSod2zWtYR92Gd/ISl8Tmqk6TSZFZsHLqVu11wSHbUxT1OAiZM4I+iu9mc1\njnqIjKuTrEU4EEIYuMEMPf+8jOVxbuwJbCp/o8Lx9GBzus6KRueP6kEnCKHTiT8y\n1SX24X1ExmbqhNeP3sCvzDreBV/ND6wOUMnVIwIDAQABAoIBAQCR//cfPIqguVpb\nt6IxpiQkTopKt83Mpt4AThl4VwYTq674iEU5HuVGq7p6zowhG4yCb1ZYuC+3KSIJ\nfJB31c339upxY64OgBTlWihA6sp1jZ75y+Yn7tloHW7W/GWk/CMvqV989OTYSnBo\na6V3a49gA3uCFArXxY2zyyBe9gN1Y3QIS8cRU6/H28d2N1+wDtHWJjyz2t8xBRN3\n4sf4cbtq9pQFV8aMEnw8ln/g4j6KEcxYZYsQ/awtt9OqFxEkpONwoHVPGSyy66zO\neb+1QwgrmmUA0CdLxJmBTCnhE4wirbeAgggBjgc5ovTdvADVAApzBPePU4QAyz9+\nC5MIeOfBAoGBAOw4EblItRWzrazy/nHBvN6F/WV7ACJ5Mc37DRI3+T04eRt7wRd8\nzFmq/Ka8PMUpZnrYO//TShZdlyMpZhhi3ic9X5WGSb3cS9+Jw+q5lv5kvtt5BsNQ\n0wQpTFajyat56IMOs0BrwwmIAtMz7pDMHYI7hBJ7Ysj3iMAQG/pGcJ9nAoGBAK5K\no0zrJezPGU+jJB6hLBfqu86Qi8k94edLRlXnMbFUT19ASsIFfNLCCLoaBZfcYzIc\npWURhISV2R+lAcX001WGPc+ZL0iK+XjcWcyjfMM9a+dGWhoKKwEU8SDqgDzqjhrS\nWhEIQTCT/LRq6jnpMJtOspqLJHxfLv+9dVyeuhLlAoGBAIldpbjoth2Tqlibyime\n71U79/puh8qETdkpuBUzJaZbU9oOomAlO7SdQWU4q+I/zA999Y40ca4F6OESrwNZ\nYzTQdOg/+lwFYr3woFS8bjkrnu2EONGWC9Asr+7mOl2UfAjSoJzCzd2aEYJ+faoI\neNSGBay1weF6STTfaVWmZtHbAoGAfLC9H3xjh4WqUAUhBCC+UOYIMoHK39A726NI\n0JA0Ru9QUY7HbQNMB+P1Jl8TfU+YT/OaiDH+InSp/y+nkx3SS69cbTbkUvvJ+qN6\nQyL7URqSJcV5FIQNvBplX+0kjXAo9htjgCftq3lUIycSJxgjRBkLQfElyyy1jRTX\n78lGydkCgYAw8968Ya24XqA0S2NxtfqoA7rWcILhG1vqWEQdvSzkL35RraQxpgmV\nu6hqtySQsYtLD4QDagS1gSpFDYjP4biaoq2RZC2T+QAcqHOZPQXgf3tklu4p74Wz\n/xAS4tEwhKdFEGmpePSLqXSla5o8Wt3xxgXjRe57bU2RDWQo2JnWnQ==\n-----END RSA PRIVATE KEY-----\n"
+    }, 
+    "certificateId": "6eb0d62b18926a329552fc318cdb1feb3d4d6c125b032a363881ed17db18116e"
+}
+"arn:aws:iot:us-west-2:039065299133:cert/6eb0d62b18926a329552fc318cdb1feb3d4d6c125b032a363881ed17db18116e"
+{
+    "policyName": "Paasmer-thing-policy-20349", 
+    "policyArn": "arn:aws:iot:us-west-2:039065299133:policy/Paasmer-thing-policy-20349", 
+    "policyDocument": "{ \"Version\": \"2012-10-17\", \"Statement\": [{\"Action\": [\"iot:*\"], \"Resource\": [\"*\"], \"Effect\": \"Allow\" }] }", 
+    "policyVersionId": "1"
+}
+Added to alias...\n
+running install
+running install
+running bdist_egg
+running egg_info
+writing Python_EEML.egg-info/PKG-INFO
+writing top-level names to Python_EEML.egg-info/top_level.txt
+writing dependency_links to Python_EEML.egg-info/dependency_links.txt
+reading manifest file 'Python_EEML.egg-info/SOURCES.txt'
+writing manifest file 'Python_EEML.egg-info/SOURCES.txt'
+installing library code to build/bdist.linux-armv7l/egg
+running install_lib
+running build_py
+creating build/bdist.linux-armv7l/egg
+creating build/bdist.linux-armv7l/egg/eeml
+copying build/lib.linux-armv7l-2.7/eeml/datastream.py -> build/bdist.linux-armv7l/egg/eeml
+copying build/lib.linux-armv7l-2.7/eeml/__init__.py -> build/bdist.linux-armv7l/egg/eeml
+byte-compiling build/bdist.linux-armv7l/egg/eeml/datastream.py to datastream.pyc
+byte-compiling build/bdist.linux-armv7l/egg/eeml/__init__.py to __init__.pyc
+creating build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/PKG-INFO -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/SOURCES.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/dependency_links.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying Python_EEML.egg-info/top_level.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+creating 'dist/Python_EEML-0.1-py2.7.egg' and adding 'build/bdist.linux-armv7l/egg' to it
+removing 'build/bdist.linux-armv7l/egg' (and everything under it)
+Processing Python_EEML-0.1-py2.7.egg
+Copying Python_EEML-0.1-py2.7.egg to /usr/local/lib/python2.7/dist-packages
+Adding Python-EEML 0.1 to easy-install.pth file
+
+Installed /usr/local/lib/python2.7/dist-packages/Python_EEML-0.1-py2.7.egg
+Processing dependencies for Python-EEML==0.1
+Finished processing dependencies for Python-EEML==0.1
+{
+    "certificateArn": "arn:aws:iot:us-west-2:039065299133:cert/50097153d118bcd52fe0706da0259fa82e29fb77318e1f84b57f5161cd811daa", 
+    "certificatePem": "-----BEGIN CERTIFICATE-----\nMIIDWjCCAkKgAwIBAgIVAJft3G0HBi+YKIxmzpXHONmpl+JoMA0GCSqGSIb3DQEB\nCwUAME0xSzBJBgNVBAsMQkFtYXpvbiBXZWIgU2VydmljZXMgTz1BbWF6b24uY29t\nIEluYy4gTD1TZWF0dGxlIFNUPVdhc2hpbmd0b24gQz1VUzAeFw0xNzA2MzAwNjE4\nNDZaFw00OTEyMzEyMzU5NTlaMB4xHDAaBgNVBAMME0FXUyBJb1QgQ2VydGlmaWNh\ndGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCWu1e6JMVNq+jWrh7V\n6Rn6kEOC38g28LcHTkscsZ7KKiIEfLLdEZb1Wts7GEd7je3PpxgNmKjmMJCdtLYZ\nwD8/1z1e1aDV5X2KQq3CRABX5WuWuGDjV31G8DVR75z0l8j/OyD57Geyllq72qTI\nV2aiGdEl5NVuriDVdeh74zSPtSXPGCdp67jBrOY1GAFGHj5HNdHk7gplYGicTBjo\nmvcN9xODO1jt71Os6OjIE1j9SrEMzFlzK8HIBhmUV3wwm5AVaY+ku0VRhKqUX3iq\nsVFNQ1KQlAYrsgK+edHZafpI0BOAdvGXzKMi9OqQEI0At1FFyqHU3kB/1lzrWK70\ndkl/AgMBAAGjYDBeMB8GA1UdIwQYMBaAFIBoPmBTCWUAQwhRe+qVm07ttlU+MB0G\nA1UdDgQWBBQAPcqHJNg16kie68uIiBpkXD5ZhjAMBgNVHRMBAf8EAjAAMA4GA1Ud\nDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEAPFi3iL4VW9Ft9dZHsds5tBnP\n7ACbgzx1YXeipSbhGpnICRJtTNwyOkXiDybCZzSJ4k5/k6O8foUqv47F6U+hg0UF\nRurXOBrWbpsYY23EkkaNa9KrWy0ZRGibdC6uTECNLYtxIEIuxai8C6xHdkl5YJl+\nAojTTfICNfQVwwTQo8hp1MgHm08JYRB52iCYTcQ1b1w0OED6RZgpiPH4roZ7EIng\nyZTuv33z1kDL2AdZEUBdtGIKO4CkLnvYZjkhNy8aYuivirLZnOfYpZEUwZq1uDi+\nHz36A/PtbDcr5UuaFrr9W3FBf6KlWY0/k7EfhLkUJ2sy96t6fGCkvIUfr5fjjQ==\n-----END CERTIFICATE-----\n", 
+    "keyPair": {
+        "PublicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlrtXuiTFTavo1q4e1ekZ\n+pBDgt/INvC3B05LHLGeyioiBHyy3RGW9VrbOxhHe43tz6cYDZio5jCQnbS2GcA/\nP9c9XtWg1eV9ikKtwkQAV+Vrlrhg41d9RvA1Ue+c9JfI/zsg+exnspZau9qkyFdm\nohnRJeTVbq4g1XXoe+M0j7Ulzxgnaeu4wazmNRgBRh4+RzXR5O4KZWBonEwY6Jr3\nDfcTgztY7e9TrOjoyBNY/UqxDMxZcyvByAYZlFd8MJuQFWmPpLtFUYSqlF94qrFR\nTUNSkJQGK7ICvnnR2Wn6SNATgHbxl8yjIvTqkBCNALdRRcqh1N5Af9Zc61iu9HZJ\nfwIDAQAB\n-----END PUBLIC KEY-----\n", 
+        "PrivateKey": "-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAlrtXuiTFTavo1q4e1ekZ+pBDgt/INvC3B05LHLGeyioiBHyy\n3RGW9VrbOxhHe43tz6cYDZio5jCQnbS2GcA/P9c9XtWg1eV9ikKtwkQAV+Vrlrhg\n41d9RvA1Ue+c9JfI/zsg+exnspZau9qkyFdmohnRJeTVbq4g1XXoe+M0j7Ulzxgn\naeu4wazmNRgBRh4+RzXR5O4KZWBonEwY6Jr3DfcTgztY7e9TrOjoyBNY/UqxDMxZ\ncyvByAYZlFd8MJuQFWmPpLtFUYSqlF94qrFRTUNSkJQGK7ICvnnR2Wn6SNATgHbx\nl8yjIvTqkBCNALdRRcqh1N5Af9Zc61iu9HZJfwIDAQABAoIBAQCO6EnxYuFplZ5o\nw6bammmWBObtEywo4qo1FAbkyoZJGA8uf+e47u9X6e9GpOtI+jRJFxwX7+/aZpsF\n2op3+aw949z8p8AYa79NsZA6SeylaQ9LU74QbSeKdT2oVGxT/gCD89R8/6UFTcXy\nqwZmJ29YKu//ZGjyyca5e1OS+cQgpmMBO8OV5ppWjgg5/wwpcVkmIxD1TdSRw2+1\nxz9XXC3+DIL1OME0AjO7xAprW0WhR4GgHqhfHzbOvw5qC7Q0wlBIWlmiG9guAmNJ\ndxSb5Nue9CcMB8zd2KGD+2vxaUNMOT5sMPokCOJlmZOp9CIQmS47UbLJGAvmQXyF\n6+yRGSwZAoGBAMjlEUJm7flz6arpEMl3lYBKSOgc0e3TgZ3x2eP70QtUOmDMI1+X\nMsqPkZV+5cLV63lEyq9uaryOBUZjMzeAnnqY+HWzQtDQd/X9Yv2xVFnjdD/WWZOl\nKddf4QKBBa+lP1JnRG9r7zbsyXmUKQVY8hsT9AhkS6urU8RliAWsHZdVAoGBAMAT\nzihwGADh0uBb33E40CpC3eDza7dAPU7bacjrTril8ClpQSgHQCXcywUfXnRjO1QU\nU0nsVPwFw/mht72hQ/cdSEJc/39FOmZZthBopv5cSrl0BemzIjZ/2JfJdS9cs8jV\niCnGf7wfT8uxdbm6QY09xCIBD0iFbqW50AIeiHWDAoGAXGiSEdtK6A4blBR1Nlcd\nm8+PzcVEA4PhAYg4VBiHRhDOcaw1MUlZgbecngmrIn5IPJYaLaw6yNUDNCd5bbRq\nMbafw3Rb7bWXGL4fhNbHGDn6RUsSFUpJ/toJpJ84wFzgzcTWw/IALWGqI5S1cdJC\nO5ZoEFwiOqsqcxLJCOLtEakCgYBygpwycXlt9TOB/GO+nU9FEq4ysQxzqIGkZJyx\nYs+At7TxC0YD9iahK/uBJ01pd8tj+eYZuSKFSW6ngWkITX82cKemoMjVeFEzuaIY\nMDv2gtEttOTdiaUI9rkK7NjHDq5EOkE+HpACeGxbFIYJ3ue7q6olV5pj8uCfPqKq\n0McrvwKBgELg/qgT+BFmeri92iC6daDA3nK31My470NH0DFgKDLjzN8G8E0SIeBd\npF7DqW5qZulOOygq5GStoQ8Y4BUSgb7CADM8LSg1KuMl6KItCXHecZSotvVuatyF\nX8faLaUjdu5FZJ2f1s+4EEgbs0udGeSNO/NVxvdkgOTr56olejYr\n-----END RSA PRIVATE KEY-----\n"
+    }, 
+    "certificateId": "50097153d118bcd52fe0706da0259fa82e29fb77318e1f84b57f5161cd811daa"
+}
+"arn:aws:iot:us-west-2:039065299133:cert/50097153d118bcd52fe0706da0259fa82e29fb77318e1f84b57f5161cd811daa"
+{
+    "policyName": "Paasmer-thing-policy-8640", 
+    "policyArn": "arn:aws:iot:us-west-2:039065299133:policy/Paasmer-thing-policy-8640", 
+    "policyDocument": "{ \"Version\": \"2012-10-17\", \"Statement\": [{\"Action\": [\"iot:*\"], \"Resource\": [\"*\"], \"Effect\": \"Allow\" }] }", 
+    "policyVersionId": "1"
+}
+Added to alias...\n
